@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b72c94c.css",
+    "main.js": "/static/js/main.f475d8b0.js",
+    "static/media/Smack.mp4": "/static/media/Smack.2358145f1ba585eb573f.mp4",
+    "static/media/GTD XXIV Website (2021).mp4": "/static/media/GTD XXIV Website (2021).b34748db67cf017046ce.mp4",
+    "static/media/GTD XXIV Website.png": "/static/media/GTD XXIV Website.c05ae62bfdc16e59aa24.png",
+    "static/media/Smack.png": "/static/media/Smack.e08b3c83c82438859292.png",
+    "static/media/Logo NTU.png": "/static/media/Logo NTU.842c9e0b122ca0283658.png",
+    "static/media/PintuApp.png": "/static/media/PintuApp.6ec88bb13243e3ae3041.png",
+    "static/media/Quizzy.png": "/static/media/Quizzy.b4c91b367c7b177a3f67.png",
+    "static/media/Logo MHT.jpg": "/static/media/Logo MHT.318babf613de0d76f2b1.jpg",
+    "static/media/Sudoku.png": "/static/media/Sudoku.ce2c9fecb0e3316772e8.png",
+    "index.html": "/index.html",
+    "main.4b72c94c.css.map": "/static/css/main.4b72c94c.css.map",
+    "main.f475d8b0.js.map": "/static/js/main.f475d8b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b72c94c.css",
+    "static/js/main.f475d8b0.js"
+  ]
+}
